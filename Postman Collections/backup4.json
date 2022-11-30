@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "ad9f35cd-3dc8-466b-b3fc-dcc2149a5dba",
+		"name": "TestGitHubIntegrationCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Example Request",
+			"_postman_id": "92ab9db6-dde1-42e1-a2ed-f064fcff4fc0",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
